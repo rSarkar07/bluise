@@ -2,9 +2,7 @@
 
 # Bluise -uxt.js & Netlify CMS boilerplate.
 
-I wanted to explore Netlify CMS & Tailwind CSS, ended up creating this boilerplate.
 
-So far we've got:
 
 - Blog w/ posts, including pagination.
 - Configurable manifest & global settings.
